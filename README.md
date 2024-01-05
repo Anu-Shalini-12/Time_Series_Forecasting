@@ -44,4 +44,4 @@ This project focuses on creating a time series forecasting model for predicting 
 - Experiment with different forecasting techniques and hyperparameters to improve model performance.
 
 # Author
-Anu-Shalini-12
+- Anu-Shalini-12
